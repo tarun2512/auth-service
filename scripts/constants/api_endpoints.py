@@ -1,0 +1,15 @@
+class APIEndPoints:
+    base_proxy_traveller = "/traveller"
+    base_proxy_organizer = "/organizer"
+
+    api_register = "/v1/register"
+    api_login = "/v1/login"
+    api_get_token = "/v1/get_token"
+    api_logout = "/v1/logout"
+    api_refresh = "/v1/refresh"
+    api_forgot_password = "/v1/forgot_password"
+    api_reset_password = "/v1/reset_password"
+    api_change_password = "/v1/change_password"
+    api_user_info = "/v1/user_info"
+    api_user_settings = "/v1/user_settings"
+    api_update_user_settings = "/v1/update_user_settings"
