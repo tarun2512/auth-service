@@ -1,5 +1,5 @@
 fastapi~=0.115.6
-sqlalchemy==2.0.30
+sqlalchemy==2.0.31
 sqlalchemy-utils==0.41.2
 uvicorn[standard]~=0.18.2
 python-dotenv~=1.0.1
